@@ -1,0 +1,16 @@
+{
+  "name": "task10",
+  "version": "1.0.0",
+  "description": "Learning to create package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Hrishikesh Joshi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
